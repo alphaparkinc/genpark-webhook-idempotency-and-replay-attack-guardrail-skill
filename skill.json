@@ -1,0 +1,8 @@
+{
+  "name": "genpark-webhook-idempotency-and-replay-attack-guardrail-skill",
+  "version": "1.0.0",
+  "description": "Verifies webhook delivery timestamp freshness, deduplicates event IDs, and blocks replay attacks for event-driven agents",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
